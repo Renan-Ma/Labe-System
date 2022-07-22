@@ -1,4 +1,4 @@
-# LabenuSystem
+# LabeSystem
 
 ### [Documentação da API](https://documenter.getpostman.com/view/20354712/UzBsHQFo)
 
