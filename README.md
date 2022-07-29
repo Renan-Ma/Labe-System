@@ -3,7 +3,6 @@
 ### [Documentação da API](https://documenter.getpostman.com/view/20354712/UzBsHQFo)
 
 ## Requisitos do Projeto
-Você estuda na Labenu há tanto tempo que já parecem anos, não é? Então, hoje, vamos pedir para criar um sistema que represente o básico da nossa organização.
 
 Ele deve possuir, ao menos, as 3 entidades importantes:
 
