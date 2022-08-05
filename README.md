@@ -41,3 +41,4 @@ O módulo pode assumir os valores de 1 a 7 ou undefined, indicando que as aulas 
 
 | [<img src="https://avatars.githubusercontent.com/u/69327864?s=96&v=4" width=100><br><sub>Renan Alencar</sub>](https://github.com/Renan-Ma) | [<img src="https://avatars.githubusercontent.com/u/98921788?v=4" width=100><br><sub>Marcos Vinicius</sub>](https://github.com/Marcos-vvc) | [<img src="https://avatars.githubusercontent.com/u/99031516?v=4" width=100><br><sub>Matheus de Souza</sub>](https://github.com/matheus92as) |
 | :---: | :---: | :---: |
+
