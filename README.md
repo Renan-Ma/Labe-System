@@ -1,8 +1,8 @@
-# LabeSystem
+# 💻 LabeSystem
 
 ### [Documentação da API](https://documenter.getpostman.com/view/20354712/UzBsHQFo)
 
-## Requisitos do Projeto
+## :dart: Requisitos do Projeto
 
 Ele deve possuir, ao menos, as 3 entidades importantes:
 
@@ -20,7 +20,7 @@ Toda turma é composta das seguintes características: id, nome, data de início
 
 O módulo pode assumir os valores de 1 a 7 ou undefined, indicando que as aulas dessa turma ainda não começaram. Para esse exercício, vamos considerar que existam dois tipos de turma: integral ou noturna. Há uma restrição para o nome das turmas noturnas: tem que terminar com -na-night.
 
-## Funcionalidades
+## ⚙️ Funcionalidades
 
 1. Estudante
     - Criar estudante;
@@ -36,6 +36,16 @@ O módulo pode assumir os valores de 1 a 7 ou undefined, indicando que as aulas 
     - Criar turma;
     - Buscar turmas ativas;
     - Mudar turma de módulo.
+    
+ ### :computer: Tecnologias
+- Node.js
+- Typescript
+- MYSQL
+- Express
+- Knex
+- bcryptjs
+- uuid
+- jsonwebtoken
 
 ## Desenvolvedores
 
